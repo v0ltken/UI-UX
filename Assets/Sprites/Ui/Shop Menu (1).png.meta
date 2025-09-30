@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 78ea300b46ad8ac48971a222d297c299
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5231985791984106129
+    second: Shop Menu (1)_0
+  - first:
+      213: 2286925807361024509
+    second: Shop Menu (1)_1
+  - first:
+      213: 3993571442132691146
+    second: Shop Menu (1)_2
+  - first:
+      213: -4940349854573976069
+    second: Shop Menu (1)_3
+  - first:
+      213: 441256886990017131
+    second: Shop Menu (1)_4
+  - first:
+      213: -6983495125058508408
+    second: Shop Menu (1)_5
+  - first:
+      213: -6312474156652370755
+    second: Shop Menu (1)_6
+  - first:
+      213: -8911436656316493032
+    second: Shop Menu (1)_7
+  - first:
+      213: 4246452632965460858
+    second: Shop Menu (1)_8
+  - first:
+      213: 9193846955732362836
+    second: Shop Menu (1)_9
+  - first:
+      213: 6163709249558074951
+    second: Shop Menu (1)_10
+  - first:
+      213: -1552694951784068033
+    second: Shop Menu (1)_11
+  - first:
+      213: -7786062591453154935
+    second: Shop Menu (1)_12
+  - first:
+      213: -735730977477819726
+    second: Shop Menu (1)_13
+  - first:
+      213: 4825631884356114646
+    second: Shop Menu (1)_14
+  - first:
+      213: 3809026400182733794
+    second: Shop Menu (1)_15
+  - first:
+      213: -7057191928521936518
+    second: Shop Menu (1)_16
+  - first:
+      213: 6461259648519097637
+    second: Shop Menu (1)_17
+  - first:
+      213: -7569029683665205209
+    second: Shop Menu (1)_18
+  - first:
+      213: 3467611046204822752
+    second: Shop Menu (1)_19
+  - first:
+      213: 6544264932658696656
+    second: Shop Menu (1)_20
+  - first:
+      213: -5136850830028136342
+    second: Shop Menu (1)_21
+  - first:
+      213: 3347302330367452504
+    second: Shop Menu (1)_22
+  - first:
+      213: 1186943259186287110
+    second: Shop Menu (1)_23
+  - first:
+      213: -6436519650063818585
+    second: Shop Menu (1)_24
+  - first:
+      213: 1076823465312777623
+    second: Shop Menu (1)_25
+  - first:
+      213: 3498376129181407848
+    second: Shop Menu (1)_26
+  - first:
+      213: 7779657479186558599
+    second: Shop Menu (1)_27
+  - first:
+      213: -458894160308676827
+    second: Shop Menu (1)_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shop Menu (1)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 411
+        width: 258
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a7a198b5fbb9840800000000000000
+      internalID: 5231985791984106129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 415
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df16d67b7eaccbf10800000000000000
+      internalID: 2286925807361024509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 477
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8a67951140c6730800000000000000
+      internalID: 3993571442132691146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf527fb7bf9507bb0800000000000000
+      internalID: -4940349854573976069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 383
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b621cb30dc8af1600800000000000000
+      internalID: 441256886990017131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 399
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88927341f24a51f90800000000000000
+      internalID: -6983495125058508408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e6ee03369568a0800000000000000
+      internalID: -6312474156652370755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8135cdd6397345480800000000000000
+      internalID: -8911436656316493032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73bd67cb2e6eea30800000000000000
+      internalID: 4246452632965460858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 351
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456ebbb581b179f70800000000000000
+      internalID: 9193846955732362836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 351
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746d2bed7e4e98550800000000000000
+      internalID: 6163709249558074951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 351
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c4e5afa28b37ae0800000000000000
+      internalID: -1552694951784068033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9813a7d435952f390800000000000000
+      internalID: -7786062591453154935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 319
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b20f25f2982ac5f0800000000000000
+      internalID: -735730977477819726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 319
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d858dba1a618f240800000000000000
+      internalID: 4825631884356114646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb0af274516cd430800000000000000
+      internalID: 3809026400182733794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7132b4e451df0e90800000000000000
+      internalID: -7057191928521936518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dcb87ca610ba950800000000000000
+      internalID: 6461259648519097637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7288fbaea9765f690800000000000000
+      internalID: -7569029683665205209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 287
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e45244dfdd6f1030800000000000000
+      internalID: 3467611046204822752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1da238846e1da50800000000000000
+      internalID: 6544264932658696656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a004e26d36b8b0800000000000000
+      internalID: -5136850830028136342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855a3651cb1047e20800000000000000
+      internalID: 3347302330367452504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d7540b9ed87010800000000000000
+      internalID: 1186943259186287110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0ef1cfa73eca6a0800000000000000
+      internalID: -6436519650063818585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795f5c78c35a1fe00800000000000000
+      internalID: 1076823465312777623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a5096ed8abc8030800000000000000
+      internalID: 3498376129181407848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e20294245e6fb60800000000000000
+      internalID: 7779657479186558599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Menu (1)_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527dc49413ea1a9f0800000000000000
+      internalID: -458894160308676827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f1318c591f35bb5499abfd1dd4ec1b8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shop Menu (1)_0: 5231985791984106129
+      Shop Menu (1)_1: 2286925807361024509
+      Shop Menu (1)_10: 6163709249558074951
+      Shop Menu (1)_11: -1552694951784068033
+      Shop Menu (1)_12: -7786062591453154935
+      Shop Menu (1)_13: -735730977477819726
+      Shop Menu (1)_14: 4825631884356114646
+      Shop Menu (1)_15: 3809026400182733794
+      Shop Menu (1)_16: -7057191928521936518
+      Shop Menu (1)_17: 6461259648519097637
+      Shop Menu (1)_18: -7569029683665205209
+      Shop Menu (1)_19: 3467611046204822752
+      Shop Menu (1)_2: 3993571442132691146
+      Shop Menu (1)_20: 6544264932658696656
+      Shop Menu (1)_21: -5136850830028136342
+      Shop Menu (1)_22: 3347302330367452504
+      Shop Menu (1)_23: 1186943259186287110
+      Shop Menu (1)_24: -6436519650063818585
+      Shop Menu (1)_25: 1076823465312777623
+      Shop Menu (1)_26: 3498376129181407848
+      Shop Menu (1)_27: 7779657479186558599
+      Shop Menu (1)_28: -458894160308676827
+      Shop Menu (1)_3: -4940349854573976069
+      Shop Menu (1)_4: 441256886990017131
+      Shop Menu (1)_5: -6983495125058508408
+      Shop Menu (1)_6: -6312474156652370755
+      Shop Menu (1)_7: -8911436656316493032
+      Shop Menu (1)_8: 4246452632965460858
+      Shop Menu (1)_9: 9193846955732362836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
