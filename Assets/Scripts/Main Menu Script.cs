@@ -65,4 +65,11 @@ public class MainMenuScript : MonoBehaviour
 
         SwitchScene(SceneInt);
     }
+
+    public void QuitGame()
+    {
+        // This will only work in a built game
+        Application.Quit();
+
+    }
 }
